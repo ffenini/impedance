@@ -301,7 +301,6 @@ def V(p, f):
     #b3=b*((rho_e*rho_i)/(rho_e+rho_i))
     #Zp=(b1+b2+b3)/A
     
-    #passami la bppaldkkj
 
     return Zp
 
